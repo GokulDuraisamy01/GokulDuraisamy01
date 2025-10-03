@@ -8,12 +8,15 @@ Welcome to my GitHub! I'm a computer science student @ University of Southern Ca
 - **Full-Stack Development**: My goal is to become a full-stack developer who can develop websites which can handle millions of users.
 
 ## 🔭 I'm currently working on
-- Nothing
+- Personal Project
+- Grinding Leetcode
 
 ## 🌱 I’m currently learning
 - React along with JS
 - Web Technology
 - Analysis of Algorithms
+- Gaming Consoles
+- Database Systems
 
 
 <!--
